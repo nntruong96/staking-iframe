@@ -1,8 +1,0 @@
-{
-  "name": "staking-iframe",
-  "version": "1.0.0",
-  "description": "The UI staking intent solver actions",
-  "main": "public/index.html",
-  "author": "NNTruong",
-  "license": "MIT"
-}
