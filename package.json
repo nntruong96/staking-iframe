@@ -1,0 +1,12 @@
+{
+  "name": "staking-iframe",
+  "version": "1.0.0",
+  "description": "The UI staking intent solver actions",
+  "main": "public/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nntruong96/staking-iframe.git"
+  },
+  "author": "NNTruong",
+  "license": "MIT"
+}
